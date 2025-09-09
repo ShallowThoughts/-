@@ -1,0 +1,17 @@
+
+> home@4.1.4 build /www/wwwroot/lxixi.top
+> vite build
+
+vite v4.5.14 building for production...
+<script src="/registerSW.js"> in "/index.html" can't be bundled without type="module" attribute
+<script src="/registerSW.js"> in "/index.html" can't be bundled without type="module" attribute
+<script src="/registerSW.js"> in "/index.html" can't be bundled without type="module" attribute
+transforming...
+✓ 4 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/registerSW.js                0.13 kB
+dist/manifest.webmanifest         0.67 kB
+dist/index.html                   5.10 kB │ gzip:   1.64 kB
+dist/assets/index-72176db1.css  145.40 kB │ gzip:  23.52 kB
+dist/assets/index-205b4d1c.js   415.15 kB │ gzip: 134.44 kB
